@@ -1,0 +1,2 @@
+# freetype
+freetype for android
